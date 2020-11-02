@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<content>
+	<!-- general vars -->
+	<section name="settings">
+		<item name="textSelectable">true</item>
+	</section>
+	
+ <section name="configuration">
+ <delta_pics>3</delta_pics>       <!-- distance between adjacent images -->
+ <alpha_bg>90</alpha_bg>          <!-- transparency  of the substrate under the comment -->
+ <delta_scr>0</delta_scr>       <!-- scroller correction -->
+ <pic_smoth>true</pic_smoth>      <!-- image smoothness (true/false)-->
+ <pic_ext>.png</pic_ext>          <!-- big pictures filename extension (.jpg/.png) -->
+ </section>
+
+
+<section name="pages">
+	
+<page name="home page">
+
+<gall name="globalGallery">
+		<folder fName="1" fTitle="PEOPLE">
+			<image imageUrl="1" legenda="Minha casa" size="20" size_width="20"/>
+			<image imageUrl="2" legenda="Minha casa" size="20" size_width="20"/>
+			<image imageUrl="3" legenda="Minha casa" size="20" size_width="20"/>
+			<image imageUrl="4" legenda="Minha casa" size="20" size_width="20"/>
+			<image imageUrl="5" legenda="Minha casa" size="20" size_width="20"/>
+			<image imageUrl="6" legenda="Minha casa" size="20" size_width="20"/>
+			<image imageUrl="7" legenda="Minha casa" size="20" size_width="20"/>
+		</folder>
+		
+		</gall>
+
+		</page>
+		
+			
+</section>
+
+	
+</content>

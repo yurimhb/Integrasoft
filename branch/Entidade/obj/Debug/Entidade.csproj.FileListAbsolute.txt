@@ -1,0 +1,26 @@
+D:\Integrasoft\integrasoft\branch\Entidade\bin\Debug\Entidade.dll
+D:\Integrasoft\integrasoft\branch\Entidade\bin\Debug\Entidade.pdb
+D:\Integrasoft\integrasoft\branch\Entidade\obj\Debug\ResolveAssemblyReference.cache
+D:\Integrasoft\integrasoft\branch\Entidade\obj\Debug\Entidade.dll
+D:\Integrasoft\integrasoft\branch\Entidade\obj\Debug\Entidade.pdb
+Y:\Integra\Clientes Projetos\integrasoft\branch\Entidade\bin\Debug\Entidade.dll
+Y:\Integra\Clientes Projetos\integrasoft\branch\Entidade\bin\Debug\Entidade.pdb
+Y:\Integra\Clientes Projetos\integrasoft\branch\Entidade\obj\Debug\ResolveAssemblyReference.cache
+Y:\Integra\Clientes Projetos\integrasoft\branch\Entidade\obj\Debug\Entidade.dll
+Y:\Integra\Clientes Projetos\integrasoft\branch\Entidade\obj\Debug\Entidade.pdb
+D:\Integra\Clientes\integrasoft\branch\Entidade\bin\Debug\Entidade.dll
+D:\Integra\Clientes\integrasoft\branch\Entidade\bin\Debug\Entidade.pdb
+D:\Integra\Clientes\integrasoft\branch\Entidade\obj\Debug\ResolveAssemblyReference.cache
+D:\Integra\Clientes\integrasoft\branch\Entidade\obj\Debug\Entidade.dll
+D:\Integra\Clientes\integrasoft\branch\Entidade\obj\Debug\Entidade.pdb
+E:\integrasoft\branch\Entidade\bin\Debug\Entidade.dll
+E:\integrasoft\branch\Entidade\bin\Debug\Entidade.pdb
+E:\integrasoft\branch\Entidade\obj\Debug\ResolveAssemblyReference.cache
+E:\integrasoft\branch\Entidade\obj\Debug\Entidade.dll
+E:\integrasoft\branch\Entidade\obj\Debug\Entidade.pdb
+D:\Projetos Assembla\Integrasoft\branch\Entidade\bin\Debug\Entidade.dll
+D:\Projetos Assembla\Integrasoft\branch\Entidade\bin\Debug\Entidade.pdb
+D:\Projetos Assembla\Integrasoft\branch\Entidade\obj\Debug\Entidade.csprojAssemblyReference.cache
+D:\Projetos Assembla\Integrasoft\branch\Entidade\obj\Debug\Entidade.csproj.CoreCompileInputs.cache
+D:\Projetos Assembla\Integrasoft\branch\Entidade\obj\Debug\Entidade.dll
+D:\Projetos Assembla\Integrasoft\branch\Entidade\obj\Debug\Entidade.pdb

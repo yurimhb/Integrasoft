@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="E:\integrasoft\trunk" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Flash/25174_gall_1_3.png" publishTime="10/23/2012 10:36:10" />
+    <file relUrl="Paginas/Inicio/index.html" publishTime="10/23/2012 14:41:09" />
+    <file relUrl="Paginas/Inicio/integrasoft_2012_pic8.png" publishTime="10/23/2012 10:21:10" />
+    <file relUrl="bin/Integrasoft.pdb" publishTime="10/23/2012 14:39:11" />
+    <file relUrl="Paginas/Inicio/integrasoft_2012_pic12.png" publishTime="10/23/2012 10:21:10" />
+    <file relUrl="Global.asax" publishTime="10/23/2012 10:38:42" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="10/23/2012 10:21:15" />
+    <file relUrl="Styles/Site.css" publishTime="10/23/2012 10:21:10" />
+    <file relUrl="site_integrasoft.swf" publishTime="10/23/2012 10:38:42" />
+    <file relUrl="Paginas/Inicio/integrasoft_2012_pic9.png" publishTime="10/23/2012 10:21:10" />
+    <file relUrl="Paginas/Inicio/integrasoft_2012_pic1.png" publishTime="10/23/2012 10:21:10" />
+    <file relUrl="Paginas/Inicio/integrasoft_2012_pic11.png" publishTime="10/23/2012 10:21:10" />
+    <file relUrl="bin/Npgsql.xml" publishTime="05/13/2008 22:57:46" />
+    <file relUrl="Flash/25174_gall_1_1.png" publishTime="10/23/2012 10:36:10" />
+    <file relUrl="bin/Entidade.dll" publishTime="10/23/2012 14:39:11" />
+    <file relUrl="site_integrasoft_old.swf" publishTime="10/23/2012 10:38:42" />
+    <file relUrl="Flash/25174_main.xml" publishTime="10/23/2012 10:36:09" />
+    <file relUrl="Paginas/Inicio/contato.aspx" publishTime="10/23/2012 10:21:10" />
+    <file relUrl="Paginas/Inicio/integrasoft_2012_pic14.png" publishTime="10/23/2012 10:21:10" />
+    <file relUrl="Paginas/Inicio/integrasoft_2012_pic15.png" publishTime="10/23/2012 10:21:10" />
+    <file relUrl="index_old.html" publishTime="10/23/2012 10:38:42" />
+    <file relUrl="Paginas/Inicio/integrasoft_2012_pic10.png" publishTime="10/23/2012 10:21:10" />
+    <file relUrl="bin/Npgsql.pdb" publishTime="05/13/2008 22:57:46" />
+    <file relUrl="Paginas/Inicio/integrasoft_2012_pic6.png" publishTime="10/23/2012 10:21:10" />
+    <file relUrl="Paginas/Inicio/integrasoft_2012_pic7.png" publishTime="10/23/2012 10:21:10" />
+    <file relUrl="Paginas/Inicio/integrasoft_2012_pic17.png" publishTime="10/23/2012 10:21:10" />
+    <file relUrl="bin/Facade.pdb" publishTime="10/23/2012 14:39:11" />
+    <file relUrl="bin/Facade.dll" publishTime="10/23/2012 14:39:11" />
+    <file relUrl="bin/Mono.Security.dll" publishTime="07/07/2007 00:09:48" />
+    <file relUrl="Flash/25174_gall_1_5.png" publishTime="10/23/2012 10:36:10" />
+    <file relUrl="bin/Entidade.pdb" publishTime="10/23/2012 14:39:11" />
+    <file relUrl="Paginas/Inicio/integrasoft_2012_pic4.png" publishTime="10/23/2012 10:21:10" />
+    <file relUrl="Flash/portfolio.swf" publishTime="10/23/2012 10:36:10" />
+    <file relUrl="Paginas/Inicio/integrasoft_2012_pic16.png" publishTime="10/23/2012 10:21:10" />
+    <file relUrl="Paginas/Inicio/integrasoft_2012_main.xml" publishTime="10/23/2012 14:32:01" />
+    <file relUrl="Flash/25174_gall_1_2.png" publishTime="10/23/2012 10:36:10" />
+    <file relUrl="Flash/portfolio.html" publishTime="10/23/2012 10:36:09" />
+    <file relUrl="Paginas/Inicio/integrasoft_2012_pic2.png" publishTime="10/23/2012 10:21:10" />
+    <file relUrl="bin/Npgsql.dll" publishTime="05/13/2008 22:57:46" />
+    <file relUrl="Paginas/Inicio/integrasoft_2012-form04configuration.xml" publishTime="10/23/2012 10:21:10" />
+    <file relUrl="bin/Integrasoft.dll" publishTime="10/23/2012 14:39:11" />
+    <file relUrl="Paginas/Inicio/integrasoft_2012.swf" publishTime="10/23/2012 14:32:01" />
+    <file relUrl="Paginas/Inicio/integrasoft_2012-form04structure.xml" publishTime="10/23/2012 14:32:01" />
+    <file relUrl="Paginas/Inicio/integrasoft_2012_pic5.png" publishTime="10/23/2012 10:21:10" />
+    <file relUrl="Web.config" publishTime="10/23/2012 14:41:35" />
+    <file relUrl="index.aspx" publishTime="10/23/2012 10:38:42" />
+    <file relUrl="Paginas/Inicio/integrasoft_2012_pic3.png" publishTime="10/23/2012 10:21:10" />
+    <file relUrl="Paginas/Inicio/integrasoft_2012_pic13.png" publishTime="10/23/2012 10:21:10" />
+    <file relUrl="Paginas/Inicio/integrasoft_2012_logo.png" publishTime="10/23/2012 10:21:10" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="10/23/2012 10:21:15" />
+    <file relUrl="Flash/25174_gall_1_4.png" publishTime="10/23/2012 10:36:10" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="10/23/2012 10:21:15" />
+  </publishProfile>
+</publishData>

@@ -1,0 +1,1054 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<content>
+	<!-- general vars -->
+	<section name="settings">
+		<item name="textSelectable">true</item>
+		<item name="copyright"><![CDATA[
+Integrasoft © 2012   <u><a href="asfunction:_root.more_click_func, privacyPolicy"></a></u>
+]]></item>
+
+                <image imageUrl="_logo.png" />
+		<item name="companyName"><![CDATA[Integra<font color="#a6afb5">Soft</font>]]></item>
+                <item name="slogan"><![CDATA[Gerando Soluções Inteligentes]]></item>
+
+	</section>
+	
+	<!-- menu -->
+<section name="menu">
+
+
+
+
+<link systemOrder="1"><![CDATA[
+<font size="12">Home</font> 
+]]></link>
+
+<link systemOrder="2"><![CDATA[
+<font size="12">Empresa</font> 
+]]></link>
+
+<link systemOrder="3"><![CDATA[
+<font size="12">Clientes</font> 
+]]></link>
+
+
+<link systemOrder="4"><![CDATA[
+<font size="12">Serviços</font> 
+]]></link>
+
+
+<link systemOrder="5"><![CDATA[
+<font size="12">Contato</font> 
+]]></link>
+
+
+</section>
+	
+	<!-- pages -->
+	<section name="pages">
+		
+		
+<page name="HOME">
+<image imageUrl="_pic1.png" link="asfunction:link"/>
+<image imageUrl="_pic2.png" link="asfunction:link"/>
+<image imageUrl="_pic2.png" link="asfunction:link"/>
+<image imageUrl="_pic1.png" link="asfunction:link"/>
+
+
+<texts>
+
+
+<pageText><![CDATA[
+Bem Vindo!
+]]></pageText>
+
+<pageText><![CDATA[
+<b><u><a href="asfunction:link"></a></u></b><br>
+<textformat leading="0"><br>
+A Integrasoft é uma empresa que<br>desenvolve soluções inovadoras<br>para seus clientes baseadas em<br>Tecnologia de Informação, gerando<br>produtos de alta qualidade profissional<br>garantindo assim a realização das<br>idéias de sua empresa.<br>
+
+<u><a href="asfunction:link"></a></u>
+]]></pageText>
+
+<pageText><![CDATA[
+Sobre a Empresa
+]]></pageText>
+
+<pageText><![CDATA[
+<b><u><font color="#9daebe">Missão</font></u></b><br><br>
+
+A Integrasoft tem como missão o desenvolvimento de soluções em TI, garantindo a plena satisfação das necessidades de seus clientes e um produto de qualidade.<br><br>
+
+<a href="asfunction:_root.more_click_func,0"><font color="#ffffff"></font></a>
+]]></pageText>
+
+<pageText><![CDATA[
+<b><u><font color="#9daebe">Qualidade</font></u></b><br><br>
+
+A qualidade nos serviços é essencial para o sucesso. Para isso, a Integrasoft tem investido em sua equipe e na padronização de processos, com o objetivo de conquistar nossos clientes.<br><br>
+
+<a href="asfunction:_root.more_click_func,1"><font color="#ffffff"> </font></a>
+]]></pageText>
+
+<pageText><![CDATA[
+<b><u><font color="#9daebe">accusantium doloremque</font></u></b><br><br>
+
+Ogd adipiscg eraesen ajtr lefrta<br>
+seetases keriarts miasertas<br>
+Aliquam congue fermentum<br>
+nisp auris accum.<br><br>
+
+<a href="asfunction:_root.more_click_func,2"><font color="#ffffff">+ read more</font></a>
+]]></pageText>
+
+
+<pageText><![CDATA[
+<b><u><font color="#9daebe">Donec in velit vel ipsum</font></u></b><br><br>
+
+Pcwa ysole ferta se eta svgw<br>
+Aliquam congue fermentum nisl.<br>
+uauris accumsan nulla vel<br>
+Sed in lacus ut enim adipiscing.<br><br>
+
+<a href="asfunction:_root.more_click_func,3"><font color="#ffffff">+ read more</font></a>
+]]></pageText>
+
+
+
+
+</texts>
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+security
+]]></item>
+
+<item name="linkText"><![CDATA[
+Praesent vestibulum molestie lacus.<br>
+Aenean nonummy hendrerit mauris.<br>
+Phasellus portsce suscipit<br>
+Cum sociis natoque penatibus et<br>
+magnis dis parturient mont<br>
+nascetur ridiculus mulla duscugiat
+]]></item>
+
+<item name="title2"><![CDATA[
+read more 1
+]]></item>
+
+<item name="linkText2"><![CDATA[
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit.<br>
+Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris.<br>
+Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et<br><br>
+
+Yeugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a,<br>
+lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna.<br>
+Donec accumsan malesuada orci. Donec sit amet eros. Lor em ipsum dolor<br><br>
+
+sit amet, consectetuer adipiscing elit. Mauris fermentum dictum magna. Sed<br>
+laoreet aliquam leo. Ut tellus dolor, dapibus eget, elementum vel, cursus<br>
+eleifend, elit. Aenean auctor wisi et urna.<br><br>
+
+<font color="#ffffff">+ E-mail: <a href="asfunction:link"><u>info@companyname.com</u></a></font>
+]]></item>
+
+</link>
+
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+security
+]]></item>
+
+<item name="linkText"><![CDATA[
+Praesent vestibulum molestie lacus.<br>
+Aenean nonummy hendrerit mauris.<br>
+Phasellus portsce suscipit<br>
+Cum sociis natoque penatibus et<br>
+magnis dis parturient mont<br>
+nascetur ridiculus mulla duscugiat
+]]></item>
+
+<item name="title2"><![CDATA[
+read more 2
+]]></item>
+
+<item name="linkText2"><![CDATA[
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit.<br>
+Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris.<br>
+Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et<br><br>
+
+Yeugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a,<br>
+lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna.<br>
+Donec accumsan malesuada orci. Donec sit amet eros. Lor em ipsum dolor<br><br>
+
+sit amet, consectetuer adipiscing elit. Mauris fermentum dictum magna. Sed<br>
+laoreet aliquam leo. Ut tellus dolor, dapibus eget, elementum vel, cursus<br>
+eleifend, elit. Aenean auctor wisi et urna.<br><br>
+
+<font color="#ffffff">+ E-mail: <a href="asfunction:link"><u>info@companyname.com</u></a></font>
+]]></item>
+
+</link>
+
+
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+security
+]]></item>
+
+<item name="linkText"><![CDATA[
+Praesent vestibulum molestie lacus.<br>
+Aenean nonummy hendrerit mauris.<br>
+Phasellus portsce suscipit<br>
+Cum sociis natoque penatibus et<br>
+magnis dis parturient mont<br>
+nascetur ridiculus mulla duscugiat
+]]></item>
+
+<item name="title2"><![CDATA[
+read more 3
+]]></item>
+
+<item name="linkText2"><![CDATA[
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit.<br>
+Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris.<br>
+Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et<br><br>
+
+Yeugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a,<br>
+lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna.<br>
+Donec accumsan malesuada orci. Donec sit amet eros. Lor em ipsum dolor<br><br>
+
+sit amet, consectetuer adipiscing elit. Mauris fermentum dictum magna. Sed<br>
+laoreet aliquam leo. Ut tellus dolor, dapibus eget, elementum vel, cursus<br>
+eleifend, elit. Aenean auctor wisi et urna.<br><br>
+
+<font color="#ffffff">+ E-mail: <a href="asfunction:link"><u>info@companyname.com</u></a></font>
+]]></item>
+
+</link>
+
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+security
+]]></item>
+
+<item name="linkText"><![CDATA[
+Praesent vestibulum molestie lacus.<br>
+Aenean nonummy hendrerit mauris.<br>
+Phasellus portsce suscipit<br>
+Cum sociis natoque penatibus et<br>
+magnis dis parturient mont<br>
+nascetur ridiculus mulla duscugiat
+]]></item>
+
+<item name="title2"><![CDATA[
+read more 4
+]]></item>
+
+<item name="linkText2"><![CDATA[
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit.<br>
+Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris.<br>
+Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et<br><br>
+
+Yeugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a,<br>
+lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna.<br>
+Donec accumsan malesuada orci. Donec sit amet eros. Lor em ipsum dolor<br><br>
+
+
+sit amet, consectetuer adipiscing elit. Mauris fermentum dictum magna. Sed<br>
+laoreet aliquam leo. Ut tellus dolor, dapibus eget, elementum vel, cursus<br>
+eleifend, elit. Aenean auctor wisi et urna.<br><br>
+
+<font color="#ffffff">+ E-mail: <a href="asfunction:link"><u>info@companyname.com</u></a></font>
+]]></item>
+
+</link>
+
+
+
+
+</page>
+
+
+<page name="ABOUT">
+
+<image imageUrl="_pic16.png" link="asfunction:_root.more_click_func,1"/>
+<image imageUrl="_pic13.png" link="asfunction:_root.more_click_func,2"/>
+<image imageUrl="_pic15.png" link="asfunction:_root.more_click_func,3"/>
+<image imageUrl="_pic14.png" link="asfunction:_root.more_click_func,4"/>
+
+
+<texts>
+
+<pageText><![CDATA[
+Bem Vindo!
+]]></pageText>
+
+<pageText><![CDATA[
+<textformat leading="0">A Integrasoft disponibiliza o melhor para o cliente, tanto em produtos como em atendimento, nossos clientes possuem contato direto com nossa equipe, para qualquer dúvida.<br>
+
+<a href="asfunction:_root.more_click_func,0"><u></u></a>
+]]></pageText>
+
+<pageText><![CDATA[
+Sobre a Empresa
+]]></pageText>
+
+<pageText><![CDATA[
+<b><font color="#9daebe"><a href="asfunction:link"><u>Profissionais Capacitados</u></a></font></b><br><br>
+
+A Integrasoft conta com uma equipe de profissionais qualificados para as novas tendências tecnologias e gerenciais.<br>
+
+]]></pageText>
+
+<pageText><![CDATA[
+<b><font color="#9daebe"><a href="asfunction:link"><u>Qualidade nos Produtos</u></a></font></b><br><br>
+
+A satisfação do cliente é prioridade para a Integrasoft, para isso trabalhamos para entregar produtos de qualidade.<br>
+
+]]></pageText>
+
+<pageText><![CDATA[
+
+<a href="asfunction:_root.more_click_func,3"><font color="#ffffff">+ Leia Mais</font></a>
+]]></pageText>
+
+<pageText><![CDATA[
+
+<a href="asfunction:_root.more_click_func,4"><font color="#ffffff">+ Leia Mais</font></a>
+]]></pageText>
+
+</texts>
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+Bem Vindo!
+]]></item>
+
+<item name="linkText"><![CDATA[
+A Integrasoft valoriza acima de tudo seus profissionais, pois são eles que fazem da empresa o que ela é.<br>
+
+]]></item>
+
+<item name="title2"><![CDATA[
+Bem Vindo!
+]]></item>
+
+<item name="linkText2"><![CDATA[
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit.<br>
+Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris.<br>
+Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et<br><br>
+
+Yeugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a,<br>
+lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna.<br>
+Donec accumsan malesuada orci. Donec sit amet eros. Lor em ipsum dolor<br><br>
+
+sit amet, consectetuer adipiscing elit. Mauris fermentum dictum magna. Sed<br>
+laoreet aliquam leo. Ut tellus dolor, dapibus eget, elementum vel, cursus<br>
+eleifend, elit. Aenean auctor wisi et urna.<br><br>
+
+<font color="#ffffff">+ E-mail: <a href="asfunction:link"><u>info@companyname.com</u></a></font>
+]]></item>
+
+</link>
+
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+Bem Vindo!
+]]></item>
+
+<item name="linkText"><![CDATA[
+A Integrasoft valoriza acima de tudo seus profissionais, pois são eles que fazem da empresa o que ela é.<br>
+]]></item>
+
+<item name="title2"><![CDATA[
+EMPRESA
+]]></item>
+
+<item name="linkText2"><![CDATA[
+A Empresa trabalha com diversas tecnologias (.Net, Java e PHP) e desenvolve soluções para diversas plataformas (Web, Desktop e Mobile). <br>
+Hoje sua especialidade é o desenvolvimento de site e portais, porém possui o sistema ERP que contempla os módulos: Administrativo, Estoque, Financeiro e Vendas.<br><br>
+
+]]></item>
+
+</link>
+
+
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+Bem Vindo!
+]]></item>
+
+<item name="linkText"><![CDATA[
+A Integrasoft valoriza acima de tudo seus profissionais, pois são eles que fazem da empresa o que ela é.<br>
+]]></item>
+
+<item name="title2"><![CDATA[
+COMPROMISSO
+]]></item>
+
+<item name="linkText2"><![CDATA[
+A IntegraSoft tem o compromisso de produzir resultados conforme as necessidades do cliente se preocupando com a qualidade do produto.<br><br>
+
+]]></item>
+
+</link>
+
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+Bem Vindo!
+]]></item>
+
+<item name="linkText"><![CDATA[
+A Integrasoft valoriza acima de tudo seus profissionais, pois são eles que fazem da empresa o que ela é.<br>
+]]></item>
+
+<item name="title2"><![CDATA[
+Luiz Edivam
+]]></item>
+
+<item name="linkText2"><![CDATA[
+Formado em Ciência da Computação e com experiência de 14 anos na área de análise, desenvolvimento e gerência.<br><br>
+
+<font color="#ffffff">+ E-mail: <a href="asfunction:link"><u>luiz@integrasoft.com.br</u></a></font>
+]]></item>
+
+</link>
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+Bem Vindo!
+]]></item>
+
+<item name="linkText"><![CDATA[
+A Integrasoft valoriza acima de tudo seus profissionais, pois são eles que fazem da empresa o que ela é.<br>
+]]></item>
+
+<item name="title2"><![CDATA[
+Yuri Barreto
+]]></item>
+
+<item name="linkText2"><![CDATA[
+Formado em Ciência da Computação e com experiência de 4 anos em análise e desenvolvimento ágil.<br><br>
+
+<font color="#ffffff">+ E-mail: <a href="asfunction:link"><u>yuri@integrasoft.com.br</u></a></font>
+]]></item>
+
+</link>
+
+
+
+
+
+
+
+
+
+
+</page>
+
+
+<page name="NEWS">
+
+<image imageUrl="_pic5.png" link="asfunction:link"/>
+<image imageUrl="_pic17.png" link="http://www.integrasoft.com.br/Flash/portfolio.html"/>
+<image imageUrl="_pic5.png" link="asfunction:link"/>
+<image imageUrl="_pic5.png" link="asfunction:link"/>
+
+
+<texts>
+
+<pageText><![CDATA[
+Bem Vindo!
+]]></pageText>
+
+<pageText><![CDATA[
+<br>
+<textformat leading="0">Nossa principal prioridade é a satisfação do Cliente, pois é com o cliente que garantimos nosso serviço, com isso a Integrasoft garante o serviço e a satisfação do Cliente.<br>
+
+<a href="asfunction:_root.more_click_func,0"><font color="#ffffff"><u></u></font></a>
+]]></pageText>
+
+<pageText><![CDATA[
+Clientes                    Portfolio
+]]></pageText>
+
+<pageText><![CDATA[
+<u><a href="http://www.cageprev.com.br" target="_blank">º Cageprev/a></u></b><br>
+<u><a href="http://www.papodecamarim.net" target="_blank">º Papo de Camarim</a></u></b><br>
+<u><a href="asfunction:link">º Moça Chic</a></u></b><br>
+<u><a href="http://www.tramites.com.br" target="_blank">º Tramites</a></u></b><br>
+<u><a href="http://www.alumaq.com/" target="_blank">º Alumaq</a></u></b><br>
+<u><a href="asfunction:link">º JM Moveis</a></u></b><br>
+<u><a href="http://www.acobras.ind.br" target="_blank">º AçoBras</a></u></b><br>
+<u><a href="http://www.ramora.com.br/" target="_blank">º Ramora</a></u></b><br>
+<u><a href="asfunction:link">º AcrLoc</a></u></b><br>
+
+]]></pageText>
+
+<pageText><![CDATA[
+
+]]></pageText>
+
+<pageText><![CDATA[
+<a href="asfunction:_root.more_click_func,1"></a>
+]]></pageText>
+
+<pageText><![CDATA[
+<b><font color="#9daebe">03.24.2009</font> <u><a href="asfunction:link">Ut pharetra augue nec augueam</a></u></b><br><br>
+
+Scelerisque eget, malesuada at, neque. Vivamus eget nibh<br>
+ptiam cursus leo vel metus. Nulla facilisi enean.<br>
+Vestibulum ante ipsum primis in faucibus orci luctus et ultrices.
+]]></pageText>
+
+<pageText><![CDATA[
+<b><font color="#9daebe">04.06.2009</font> <u><a href="asfunction:link">Aswrysole ferta se etases</a></u></b><br><br>
+
+Periarts miaserta snec sit amet erosoipsum dolorit amenas<br>
+dele tader vero asertaner mias usce euismod<br>
+keriarts miaserta snec sit amet erosoipsum dolorit amenas. 
+]]></pageText>
+
+<pageText><![CDATA[
+<a href="asfunction:_root.more_click_func,2">+ more news</a>
+]]></pageText>
+
+
+
+
+</texts>
+
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+security
+]]></item>
+
+<item name="linkText"><![CDATA[
+Praesent vestibulum molestie lacus.<br>
+Aenean nonummy hendrerit mauris.<br>
+Phasellus portsce suscipit<br>
+Cum sociis natoque penatibus et<br>
+magnis dis parturient mont<br>
+nascetur ridiculus mulla duscugiat
+]]></item>
+
+<item name="title2"><![CDATA[
+read more 1
+]]></item>
+
+<item name="linkText2"><![CDATA[
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit.<br>
+Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris.<br>
+Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et<br><br>
+
+Yeugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a,<br>
+lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna.<br>
+Donec accumsan malesuada orci. Donec sit amet eros. Lor em ipsum dolor<br><br>
+
+sit amet, consectetuer adipiscing elit. Mauris fermentum dictum magna. Sed<br>
+laoreet aliquam leo. Ut tellus dolor, dapibus eget, elementum vel, cursus<br>
+eleifend, elit. Aenean auctor wisi et urna.<br><br>
+
+<font color="#ffffff">+ E-mail: <a href="asfunction:link"><u>info@companyname.com</u></a></font>
+]]></item>
+
+</link>
+
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+security
+]]></item>
+
+<item name="linkText"><![CDATA[
+Praesent vestibulum molestie lacus.<br>
+Aenean nonummy hendrerit mauris.<br>
+Phasellus portsce suscipit<br>
+Cum sociis natoque penatibus et<br>
+magnis dis parturient mont<br>
+nascetur ridiculus mulla duscugiat
+]]></item>
+
+<item name="title2"><![CDATA[
+read more 2
+]]></item>
+
+<item name="linkText2"><![CDATA[
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit.<br>
+Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris.<br>
+Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et<br><br>
+
+Yeugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a,<br>
+lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna.<br>
+Donec accumsan malesuada orci. Donec sit amet eros. Lor em ipsum dolor<br><br>
+
+sit amet, consectetuer adipiscing elit. Mauris fermentum dictum magna. Sed<br>
+laoreet aliquam leo. Ut tellus dolor, dapibus eget, elementum vel, cursus<br>
+eleifend, elit. Aenean auctor wisi et urna.<br><br>
+
+<font color="#ffffff">+ E-mail: <a href="asfunction:link"><u>info@companyname.com</u></a></font>
+]]></item>
+
+</link>
+
+
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+security
+]]></item>
+
+<item name="linkText"><![CDATA[
+Praesent vestibulum molestie lacus.<br>
+Aenean nonummy hendrerit mauris.<br>
+Phasellus portsce suscipit<br>
+Cum sociis natoque penatibus et<br>
+magnis dis parturient mont<br>
+nascetur ridiculus mulla duscugiat
+]]></item>
+
+<item name="title2"><![CDATA[
+read more 3
+]]></item>
+
+<item name="linkText2"><![CDATA[
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit.<br>
+Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris.<br>
+Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et<br><br>
+
+Yeugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a,<br>
+lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna.<br>
+Donec accumsan malesuada orci. Donec sit amet eros. Lor em ipsum dolor<br><br>
+
+sit amet, consectetuer adipiscing elit. Mauris fermentum dictum magna. Sed<br>
+laoreet aliquam leo. Ut tellus dolor, dapibus eget, elementum vel, cursus<br>
+eleifend, elit. Aenean auctor wisi et urna.<br><br>
+
+<font color="#ffffff">+ E-mail: <a href="asfunction:link"><u>info@companyname.com</u></a></font>
+]]></item>
+
+</link>
+
+
+</page>
+
+
+
+<page name="SERVICES">
+
+<image imageUrl="_pic12.png" link="asfunction:link"/>
+<image imageUrl="_pic9.png" link="asfunction:link"/>
+<image imageUrl="_pic11.png" link="asfunction:link"/>
+<image imageUrl="_pic10.png" link="asfunction:link"/>
+
+
+<texts>
+
+
+<pageText><![CDATA[
+Bem Vindo!
+]]></pageText>
+
+<pageText><![CDATA[
+
+<b><u><a href="asfunction:link"></a></u></b><br>
+<textformat leading="0">
+A Integrasoft é expecializada em desenvolcimento Web, gerando<br>Soluções inteligentes para as empresas,<br>Websites modernos e Sistemas de Gestão Empresarial  <br>
+
+<u><a href="asfunction:link"></a></u><>
+]]></pageText>
+
+<pageText><![CDATA[
+Sobre a Empresa
+]]></pageText>
+
+
+<pageText><![CDATA[
+<b><u><font color="#9daebe">Websites</font></u></b><br><br>
+A Integrasoft desenvolve Websites Modernos, utilizando as ultimas tendências em tecnologias da informação, seu Layout moderno e diferenciado são características da Integrasoft <br>
+<br><br>
+
+<a href="asfunction:_root.more_click_func,0"><font color="#ffffff"></a>
+]]></pageText>
+
+
+<pageText><![CDATA[
+<b><u><font color="#9daebe">Sistemas</font></u></b><br><br>
+
+A Integrasoft dispõe de uma equipe especializada para atender a demanda de sua empresa, desenvolvendo Sistemas que mais atendem aos requisitos de sua Empresa.<br><br>
+
+<a href="asfunction:_root.more_click_func,1"><font color="#ffffff"></a>
+]]></pageText>
+
+
+<pageText><![CDATA[
+<b><u><font color="#9daebe">Portais</font></u></b><br><br>
+
+A Integrasoft desenvolve Portais para disponibilizar o conteúdo de sua empresa na internet, sempre visando a segurança da informação.<br><br>
+
+<a href="asfunction:_root.more_click_func,2"><font color="#ffffff"></a>
+]]></pageText>
+
+
+<pageText><![CDATA[
+<b><u><font color="#9daebe">Soluções Administrativas</font></u></b><br><br>
+
+A Integrasoft possue um robusto Sistema de Gestão Empresarial(ERP) que atendem todas as areas de sua empresa, sincronizando as informações para garantir a integridade dos dados. <br><br>
+
+<a href="asfunction:_root.more_click_func,3"><font color="#ffffff"></a>
+]]></pageText>
+
+
+
+
+</texts>
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+security
+]]></item>
+
+<item name="linkText"><![CDATA[
+Praesent vestibulum molestie lacus.<br>
+Aenean nonummy hendrerit mauris.<br>
+Phasellus portsce suscipit<br>
+Cum sociis natoque penatibus et<br>
+magnis dis parturient mont<br>
+nascetur ridiculus mulla duscugiat
+]]></item>
+
+<item name="title2"><![CDATA[
+read more 1
+]]></item>
+
+<item name="linkText2"><![CDATA[
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit.<br>
+Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris.<br>
+Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et<br><br>
+
+Yeugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a,<br>
+lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna.<br>
+Donec accumsan malesuada orci. Donec sit amet eros. Lor em ipsum dolor<br><br>
+
+sit amet, consectetuer adipiscing elit. Mauris fermentum dictum magna. Sed<br>
+laoreet aliquam leo. Ut tellus dolor, dapibus eget, elementum vel, cursus<br>
+eleifend, elit. Aenean auctor wisi et urna.<br><br>
+
+<font color="#ffffff">+ E-mail: <a href="asfunction:link"><u>info@companyname.com</u></a></font>
+]]></item>
+
+</link>
+
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+security
+]]></item>
+
+<item name="linkText"><![CDATA[
+Praesent vestibulum molestie lacus.<br>
+Aenean nonummy hendrerit mauris.<br>
+Phasellus portsce suscipit<br>
+Cum sociis natoque penatibus et<br>
+magnis dis parturient mont<br>
+nascetur ridiculus mulla duscugiat
+]]></item>
+
+<item name="title2"><![CDATA[
+read more 2
+]]></item>
+
+<item name="linkText2"><![CDATA[
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit.<br>
+Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris.<br>
+Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et<br><br>
+
+Yeugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a,<br>
+lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna.<br>
+Donec accumsan malesuada orci. Donec sit amet eros. Lor em ipsum dolor<br><br>
+
+sit amet, consectetuer adipiscing elit. Mauris fermentum dictum magna. Sed<br>
+laoreet aliquam leo. Ut tellus dolor, dapibus eget, elementum vel, cursus<br>
+eleifend, elit. Aenean auctor wisi et urna.<br><br>
+
+<font color="#ffffff">+ E-mail: <a href="asfunction:link"><u>info@companyname.com</u></a></font>
+]]></item>
+
+</link>
+
+
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+security
+]]></item>
+
+<item name="linkText"><![CDATA[
+Praesent vestibulum molestie lacus.<br>
+Aenean nonummy hendrerit mauris.<br>
+Phasellus portsce suscipit<br>
+Cum sociis natoque penatibus et<br>
+magnis dis parturient mont<br>
+nascetur ridiculus mulla duscugiat
+]]></item>
+
+<item name="title2"><![CDATA[
+read more 3
+]]></item>
+
+<item name="linkText2"><![CDATA[
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit.<br>
+Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris.<br>
+Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et<br><br>
+
+Yeugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a,<br>
+lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna.<br>
+Donec accumsan malesuada orci. Donec sit amet eros. Lor em ipsum dolor<br><br>
+
+sit amet, consectetuer adipiscing elit. Mauris fermentum dictum magna. Sed<br>
+laoreet aliquam leo. Ut tellus dolor, dapibus eget, elementum vel, cursus<br>
+eleifend, elit. Aenean auctor wisi et urna.<br><br>
+
+<font color="#ffffff">+ E-mail: <a href="asfunction:link"><u>info@companyname.com</u></a></font>
+]]></item>
+
+</link>
+
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+security
+]]></item>
+
+<item name="linkText"><![CDATA[
+Praesent vestibulum molestie lacus.<br>
+Aenean nonummy hendrerit mauris.<br>
+Phasellus portsce suscipit<br>
+Cum sociis natoque penatibus et<br>
+magnis dis parturient mont<br>
+nascetur ridiculus mulla duscugiat
+]]></item>
+
+<item name="title2"><![CDATA[
+read more 4
+]]></item>
+
+<item name="linkText2"><![CDATA[
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit.<br>
+Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris.<br>
+Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et<br><br>
+
+Yeugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a,<br>
+lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna.<br>
+Donec accumsan malesuada orci. Donec sit amet eros. Lor em ipsum dolor<br><br>
+
+
+sit amet, consectetuer adipiscing elit. Mauris fermentum dictum magna. Sed<br>
+laoreet aliquam leo. Ut tellus dolor, dapibus eget, elementum vel, cursus<br>
+eleifend, elit. Aenean auctor wisi et urna.<br><br>
+
+<font color="#ffffff">+ E-mail: <a href="asfunction:link"><u>info@companyname.com</u></a></font>
+]]></item>
+
+</link>
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+security
+]]></item>
+
+<item name="linkText"><![CDATA[
+Praesent vestibulum molestie lacus.<br>
+Aenean nonummy hendrerit mauris.<br>
+Phasellus portsce suscipit<br>
+Cum sociis natoque penatibus et<br>
+magnis dis parturient mont<br>
+nascetur ridiculus mulla duscugiat
+]]></item>
+
+<item name="title2"><![CDATA[
+read more 5
+]]></item>
+
+<item name="linkText2"><![CDATA[
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit.<br>
+Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris.<br>
+Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et<br><br>
+
+Yeugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a,<br>
+lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna.<br>
+Donec accumsan malesuada orci. Donec sit amet eros. Lor em ipsum dolor<br><br>
+
+
+sit amet, consectetuer adipiscing elit. Mauris fermentum dictum magna. Sed<br>
+laoreet aliquam leo. Ut tellus dolor, dapibus eget, elementum vel, cursus<br>
+eleifend, elit. Aenean auctor wisi et urna.<br><br>
+
+<font color="#ffffff">+ E-mail: <a href="asfunction:link"><u>info@companyname.com</u></a></font>
+]]></item>
+
+</link>
+
+
+</page>
+
+
+
+
+<page name="contacts">
+
+<image imageUrl="_pic8.png" link="asfunction:link"/>
+
+<texts>
+
+
+<pageText><![CDATA[
+Bem Vindo!
+]]></pageText>
+
+<pageText><![CDATA[
+A Integrasoft vem conquistando mais espaço no mercado, utilizando das melhores pratica de desenvolvimento e das mais modernas tecnologias, nosso reconhecimento vai muito mais além<br>
+]]></pageText>
+
+<pageText><![CDATA[
+Informação           Contato
+]]></pageText>
+
+<pageText><![CDATA[
+<b><font color="#9daebe">Integrasoft<br>
+</font></b>
+Rua Recanto do Passaré 107<br>
+Bairro: Passaré<br>
+Cep: 60.744-055<br>
+Fortaleza-Ceará<br>
+Brasil
+<br>
+
+<font color="#ffffff"><u><a href="asfunction:link">comercial@integrasoft.com.br</a></u></font>
+]]></pageText>
+
+
+<pageText><![CDATA[
+<p align = "right">+ Limpar        + Enviar</p>
+]]></pageText>
+
+
+
+
+</texts>
+
+
+</page>
+
+
+
+</section>
+
+
+<!-- privacy policy -->
+<section name="privacyPolicy">
+<item name="pageTitle"><![CDATA[
+security
+]]></item>
+
+<item name="pageText"><![CDATA[
+Praesent vestibulum molestie lacus.<br>
+Aenean nonummy hendrerit mauris.<br>
+Phasellus portsce suscipit<br>
+Cum sociis natoque penatibus et<br>
+magnis dis parturient mont<br>
+nascetur ridiculus mulla duscugiat
+]]></item>
+
+<item name="pageTitle2"><![CDATA[
+privacy policy
+]]></item>
+
+<item name="pageText2"><![CDATA[
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit.<br>
+Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris.<br>
+Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et<br><br>
+
+Yeugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a,<br>
+lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna.<br>
+Donec accumsan malesuada orci. Donec sit amet eros. Lor em ipsum dolor<br><br>
+
+sit amet, consectetuer adipiscing elit. Mauris fermentum dictum magna. Sed<br>
+laoreet aliquam leo. Ut tellus dolor, dapibus eget, elementum vel, cursus<br>
+eleifend, elit. Aenean auctor wisi et urna.<br><br>
+
+<font color="#ffffff">+ E-mail: <a href="asfunction:link"><u>info@companyname.com</u></a></font>
+]]></item>
+
+
+
+</section>
+<!-- privacy policy -->
+
+
+<!-- terms of use -->
+<section name="termsOfUse">
+<item name="pageTitle"><![CDATA[
+security
+]]></item>
+
+<item name="pageText"><![CDATA[
+Praesent vestibulum molestie lacus.<br>
+Aenean nonummy hendrerit mauris.<br>
+Phasellus portsce suscipit<br>
+Cum sociis natoque penatibus et<br>
+magnis dis parturient mont<br>
+nascetur ridiculus mulla duscugiat
+]]></item>
+
+<item name="pageTitle2"><![CDATA[
+terms of use
+]]></item>
+
+<item name="pageText2"><![CDATA[
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit.<br>
+Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris.<br>
+Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et<br><br>
+
+Yeugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a,<br>
+lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna.<br>
+Donec accumsan malesuada orci. Donec sit amet eros. Lor em ipsum dolor<br><br>
+
+sit amet, consectetuer adipiscing elit. Mauris fermentum dictum magna. Sed<br>
+laoreet aliquam leo. Ut tellus dolor, dapibus eget, elementum vel, cursus<br>
+eleifend, elit. Aenean auctor wisi et urna.<br><br>
+
+<font color="#ffffff">+ E-mail: <a href="asfunction:link"><u>info@companyname.com</u></a></font>
+]]></item>
+
+</section>
+<!-- terms of use -->
+
+
+	
+
+</content>

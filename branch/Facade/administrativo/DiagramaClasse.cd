@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Facade.administrativo.FCargo">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEIAAAAAAAQAB0AAAAQAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>administrativo\FCargo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Facade.administrativo.FCidade">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEIAAAAAAAQAB0AAAAQAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>administrativo\FCidade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Facade.administrativo.FEstado">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEIAAAAAAAQAB0AAAAQAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>administrativo\FEstado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

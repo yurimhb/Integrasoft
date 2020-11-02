@@ -1,0 +1,72 @@
+c:\users\yuri\documents\visual studio 2010\Projects\Integrasoft\Integrasoft\bin\Integrasoft.dll
+c:\users\yuri\documents\visual studio 2010\Projects\Integrasoft\Integrasoft\bin\Integrasoft.pdb
+c:\users\yuri\documents\visual studio 2010\Projects\Integrasoft\Integrasoft\obj\Debug\ResolveAssemblyReference.cache
+c:\users\yuri\documents\visual studio 2010\Projects\Integrasoft\Integrasoft\obj\Debug\Integrasoft.dll
+c:\users\yuri\documents\visual studio 2010\Projects\Integrasoft\Integrasoft\obj\Debug\Integrasoft.pdb
+D:\Integrasoft\Integrasoft\Integrasoft\Integrasoft\bin\Integrasoft.dll
+D:\Integrasoft\Integrasoft\Integrasoft\Integrasoft\bin\Integrasoft.pdb
+D:\Integrasoft\Integrasoft\Integrasoft\Integrasoft\obj\Debug\ResolveAssemblyReference.cache
+D:\Integrasoft\Integrasoft\Integrasoft\Integrasoft\obj\Debug\Integrasoft.dll
+D:\Integrasoft\Integrasoft\Integrasoft\Integrasoft\obj\Debug\Integrasoft.pdb
+D:\Integrasoft\integrasoft\branch\Integrasoft\bin\Integrasoft.dll
+D:\Integrasoft\integrasoft\branch\Integrasoft\bin\Integrasoft.pdb
+D:\Integrasoft\integrasoft\branch\Integrasoft\obj\Debug\ResolveAssemblyReference.cache
+D:\Integrasoft\integrasoft\branch\Integrasoft\obj\Debug\Integrasoft.dll
+D:\Integrasoft\integrasoft\branch\Integrasoft\obj\Debug\Integrasoft.pdb
+D:\Integra\Clientes\integrasoft\branch\Integrasoft\bin\Integrasoft.dll
+D:\Integra\Clientes\integrasoft\branch\Integrasoft\bin\Integrasoft.pdb
+D:\Integra\Clientes\integrasoft\branch\Integrasoft\bin\Facade.dll
+D:\Integra\Clientes\integrasoft\branch\Integrasoft\bin\Facade.pdb
+D:\Integra\Clientes\integrasoft\branch\Integrasoft\obj\Debug\ResolveAssemblyReference.cache
+D:\Integra\Clientes\integrasoft\branch\Integrasoft\obj\Debug\Integrasoft.dll
+D:\Integra\Clientes\integrasoft\branch\Integrasoft\obj\Debug\Integrasoft.pdb
+D:\Integra\Clientes\integrasoft\branch\Integrasoft\bin\Npgsql.dll
+D:\Integra\Clientes\integrasoft\branch\Integrasoft\bin\Mono.Security.dll
+D:\Integra\Clientes\integrasoft\branch\Integrasoft\bin\Npgsql.pdb
+D:\Integra\Clientes\integrasoft\branch\Integrasoft\bin\Npgsql.xml
+D:\Integra\Clientes\integrasoft\branch\Integrasoft\bin\de\Npgsql.resources.dll
+D:\Integra\Clientes\integrasoft\branch\Integrasoft\bin\es\Npgsql.resources.dll
+D:\Integra\Clientes\integrasoft\branch\Integrasoft\bin\fi\Npgsql.resources.dll
+D:\Integra\Clientes\integrasoft\branch\Integrasoft\bin\ja\Npgsql.resources.dll
+D:\Integra\Clientes\integrasoft\branch\Integrasoft\bin\zh-CN\Npgsql.resources.dll
+D:\Integra\Clientes\integrasoft\branch\Integrasoft\bin\Entidade.dll
+D:\Integra\Clientes\integrasoft\branch\Integrasoft\bin\Entidade.pdb
+Y:\Integra\Clientes Projetos\integrasoft\branch\Integrasoft\bin\Integrasoft.dll
+Y:\Integra\Clientes Projetos\integrasoft\branch\Integrasoft\bin\Integrasoft.pdb
+Y:\Integra\Clientes Projetos\integrasoft\branch\Integrasoft\bin\Facade.dll
+Y:\Integra\Clientes Projetos\integrasoft\branch\Integrasoft\bin\Facade.pdb
+Y:\Integra\Clientes Projetos\integrasoft\branch\Integrasoft\obj\Debug\ResolveAssemblyReference.cache
+Y:\Integra\Clientes Projetos\integrasoft\branch\Integrasoft\obj\Debug\Integrasoft.dll
+Y:\Integra\Clientes Projetos\integrasoft\branch\Integrasoft\obj\Debug\Integrasoft.pdb
+Y:\Integra\Clientes Projetos\integrasoft\branch\Integrasoft\bin\Entidade.dll
+Y:\Integra\Clientes Projetos\integrasoft\branch\Integrasoft\bin\Mono.Security.dll
+Y:\Integra\Clientes Projetos\integrasoft\branch\Integrasoft\bin\Npgsql.pdb
+Y:\Integra\Clientes Projetos\integrasoft\branch\Integrasoft\bin\Npgsql.xml
+Y:\Integra\Clientes Projetos\integrasoft\branch\Integrasoft\bin\Entidade.pdb
+E:\integrasoft\branch\Integrasoft\bin\Integrasoft.dll
+E:\integrasoft\branch\Integrasoft\bin\Integrasoft.pdb
+E:\integrasoft\branch\Integrasoft\bin\Facade.dll
+E:\integrasoft\branch\Integrasoft\bin\Entidade.dll
+E:\integrasoft\branch\Integrasoft\bin\Mono.Security.dll
+E:\integrasoft\branch\Integrasoft\bin\Facade.pdb
+E:\integrasoft\branch\Integrasoft\bin\Npgsql.pdb
+E:\integrasoft\branch\Integrasoft\bin\Npgsql.xml
+E:\integrasoft\branch\Integrasoft\bin\Entidade.pdb
+E:\integrasoft\branch\Integrasoft\obj\Debug\ResolveAssemblyReference.cache
+E:\integrasoft\branch\Integrasoft\obj\Debug\Integrasoft.dll
+E:\integrasoft\branch\Integrasoft\obj\Debug\Integrasoft.pdb
+D:\Projetos Assembla\Integrasoft\branch\Integrasoft\bin\Integrasoft.dll.config
+D:\Projetos Assembla\Integrasoft\branch\Integrasoft\bin\Integrasoft.dll
+D:\Projetos Assembla\Integrasoft\branch\Integrasoft\bin\Integrasoft.pdb
+D:\Projetos Assembla\Integrasoft\branch\Integrasoft\bin\Facade.dll
+D:\Projetos Assembla\Integrasoft\branch\Integrasoft\bin\Facade.pdb
+D:\Projetos Assembla\Integrasoft\branch\Integrasoft\obj\Debug\Integrasoft.csprojAssemblyReference.cache
+D:\Projetos Assembla\Integrasoft\branch\Integrasoft\obj\Debug\Integrasoft.csproj.CoreCompileInputs.cache
+D:\Projetos Assembla\Integrasoft\branch\Integrasoft\obj\Debug\Integrasoft.csproj.CopyComplete
+D:\Projetos Assembla\Integrasoft\branch\Integrasoft\obj\Debug\Integrasoft.dll
+D:\Projetos Assembla\Integrasoft\branch\Integrasoft\obj\Debug\Integrasoft.pdb
+D:\Projetos Assembla\Integrasoft\branch\Integrasoft\bin\Mono.Security.dll
+D:\Projetos Assembla\Integrasoft\branch\Integrasoft\bin\Npgsql.dll
+D:\Projetos Assembla\Integrasoft\branch\Integrasoft\bin\Entidade.dll
+D:\Projetos Assembla\Integrasoft\branch\Integrasoft\bin\Npgsql.xml
+D:\Projetos Assembla\Integrasoft\branch\Integrasoft\bin\Entidade.pdb

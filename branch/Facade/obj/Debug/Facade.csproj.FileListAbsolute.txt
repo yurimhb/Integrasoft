@@ -1,0 +1,65 @@
+D:\Integrasoft\integrasoft\branch\Facade\bin\Debug\Facade.dll
+D:\Integrasoft\integrasoft\branch\Facade\bin\Debug\Facade.pdb
+D:\Integrasoft\integrasoft\branch\Facade\obj\Debug\ResolveAssemblyReference.cache
+D:\Integrasoft\integrasoft\branch\Facade\obj\Debug\Facade.dll
+D:\Integrasoft\integrasoft\branch\Facade\obj\Debug\Facade.pdb
+Y:\Integra\Clientes Projetos\integrasoft\branch\Facade\obj\Debug\ResolveAssemblyReference.cache
+Y:\Integra\Clientes Projetos\integrasoft\branch\Facade\obj\Debug\Facade.dll
+D:\Integra\Clientes\integrasoft\branch\Facade\obj\Debug\ResolveAssemblyReference.cache
+D:\Integra\Clientes\integrasoft\branch\Facade\obj\Debug\Facade.dll
+D:\Integra\Clientes\integrasoft\branch\Facade\bin\Debug\Facade.dll
+D:\Integra\Clientes\integrasoft\branch\Facade\bin\Debug\Facade.pdb
+D:\Integra\Clientes\integrasoft\branch\Facade\bin\Debug\Entidade.dll
+D:\Integra\Clientes\integrasoft\branch\Facade\bin\Debug\Npgsql.dll
+D:\Integra\Clientes\integrasoft\branch\Facade\bin\Debug\Mono.Security.dll
+D:\Integra\Clientes\integrasoft\branch\Facade\bin\Debug\Entidade.pdb
+D:\Integra\Clientes\integrasoft\branch\Facade\bin\Debug\Npgsql.pdb
+D:\Integra\Clientes\integrasoft\branch\Facade\bin\Debug\Npgsql.xml
+D:\Integra\Clientes\integrasoft\branch\Facade\bin\Debug\de\Npgsql.resources.dll
+D:\Integra\Clientes\integrasoft\branch\Facade\bin\Debug\es\Npgsql.resources.dll
+D:\Integra\Clientes\integrasoft\branch\Facade\bin\Debug\fi\Npgsql.resources.dll
+D:\Integra\Clientes\integrasoft\branch\Facade\bin\Debug\ja\Npgsql.resources.dll
+D:\Integra\Clientes\integrasoft\branch\Facade\bin\Debug\zh-CN\Npgsql.resources.dll
+D:\Integra\Clientes\integrasoft\branch\Facade\obj\Debug\Facade.pdb
+Y:\Integra\Clientes Projetos\integrasoft\branch\Facade\bin\Debug\Facade.dll
+Y:\Integra\Clientes Projetos\integrasoft\branch\Facade\bin\Debug\Facade.pdb
+Y:\Integra\Clientes Projetos\integrasoft\branch\Facade\bin\Debug\Entidade.dll
+Y:\Integra\Clientes Projetos\integrasoft\branch\Facade\bin\Debug\Npgsql.dll
+Y:\Integra\Clientes Projetos\integrasoft\branch\Facade\bin\Debug\Mono.Security.dll
+Y:\Integra\Clientes Projetos\integrasoft\branch\Facade\bin\Debug\Entidade.pdb
+Y:\Integra\Clientes Projetos\integrasoft\branch\Facade\bin\Debug\Npgsql.pdb
+Y:\Integra\Clientes Projetos\integrasoft\branch\Facade\bin\Debug\Npgsql.xml
+Y:\Integra\Clientes Projetos\integrasoft\branch\Facade\bin\Debug\de\Npgsql.resources.dll
+Y:\Integra\Clientes Projetos\integrasoft\branch\Facade\bin\Debug\es\Npgsql.resources.dll
+Y:\Integra\Clientes Projetos\integrasoft\branch\Facade\bin\Debug\fi\Npgsql.resources.dll
+Y:\Integra\Clientes Projetos\integrasoft\branch\Facade\bin\Debug\ja\Npgsql.resources.dll
+Y:\Integra\Clientes Projetos\integrasoft\branch\Facade\bin\Debug\zh-CN\Npgsql.resources.dll
+Y:\Integra\Clientes Projetos\integrasoft\branch\Facade\obj\Debug\Facade.pdb
+E:\integrasoft\branch\Facade\bin\Debug\Facade.dll
+E:\integrasoft\branch\Facade\bin\Debug\Facade.pdb
+E:\integrasoft\branch\Facade\bin\Debug\Entidade.dll
+E:\integrasoft\branch\Facade\bin\Debug\Npgsql.dll
+E:\integrasoft\branch\Facade\bin\Debug\Mono.Security.dll
+E:\integrasoft\branch\Facade\bin\Debug\Entidade.pdb
+E:\integrasoft\branch\Facade\bin\Debug\Npgsql.pdb
+E:\integrasoft\branch\Facade\bin\Debug\Npgsql.xml
+E:\integrasoft\branch\Facade\bin\Debug\de\Npgsql.resources.dll
+E:\integrasoft\branch\Facade\bin\Debug\es\Npgsql.resources.dll
+E:\integrasoft\branch\Facade\bin\Debug\fi\Npgsql.resources.dll
+E:\integrasoft\branch\Facade\bin\Debug\ja\Npgsql.resources.dll
+E:\integrasoft\branch\Facade\bin\Debug\zh-CN\Npgsql.resources.dll
+E:\integrasoft\branch\Facade\obj\Debug\ResolveAssemblyReference.cache
+E:\integrasoft\branch\Facade\obj\Debug\Facade.dll
+E:\integrasoft\branch\Facade\obj\Debug\Facade.pdb
+D:\Projetos Assembla\Integrasoft\branch\Facade\obj\Debug\Facade.csprojAssemblyReference.cache
+D:\Projetos Assembla\Integrasoft\branch\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+D:\Projetos Assembla\Integrasoft\branch\Facade\obj\Debug\Facade.dll
+D:\Projetos Assembla\Integrasoft\branch\Facade\bin\Debug\Facade.dll
+D:\Projetos Assembla\Integrasoft\branch\Facade\bin\Debug\Facade.pdb
+D:\Projetos Assembla\Integrasoft\branch\Facade\bin\Debug\Entidade.dll
+D:\Projetos Assembla\Integrasoft\branch\Facade\bin\Debug\Mono.Security.dll
+D:\Projetos Assembla\Integrasoft\branch\Facade\bin\Debug\Npgsql.dll
+D:\Projetos Assembla\Integrasoft\branch\Facade\bin\Debug\Entidade.pdb
+D:\Projetos Assembla\Integrasoft\branch\Facade\bin\Debug\Npgsql.xml
+D:\Projetos Assembla\Integrasoft\branch\Facade\obj\Debug\Facade.csproj.CopyComplete
+D:\Projetos Assembla\Integrasoft\branch\Facade\obj\Debug\Facade.pdb

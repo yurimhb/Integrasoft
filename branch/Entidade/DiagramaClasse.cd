@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Entidade.administrativo.ECidade">
+    <Position X="10.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAEAAAAAEAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>administrativo\ECidade.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="estado" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Entidade.administrativo.EEstado">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAIAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>administrativo\EEstado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidade.administrativo.ECargo">
+    <Position X="12.25" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>administrativo\ECargo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidade.administrativo.ESetor">
+    <Position X="15.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>administrativo\ESetor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidade.administrativo.ECliente">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAACQAAAAAAAAAAAEAAAABAAAAAAAAAAgAACAAIA=</HashCode>
+      <FileName>administrativo\ECliente.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="pessoa" />
+      <Property Name="empresa" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Entidade.administrativo.EDependente">
+    <Position X="10.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAQAAAAAAAAUAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>administrativo\EDependente.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Funcionario" />
+      <Property Name="Pessoa" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Entidade.administrativo.EEmpresa">
+    <Position X="11" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEgAAAAQAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>administrativo\EEmpresa.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="pessoa" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Entidade.administrativo.EEstadoCivil">
+    <Position X="7.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAQAAAEAA=</HashCode>
+      <FileName>administrativo\EEstadoCivil.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidade.administrativo.EFornecedor">
+    <Position X="4.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AJAAAAAAAAAAAAAAAAgEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>administrativo\EFornecedor.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Empresa" />
+      <Property Name="Pessoa" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Entidade.administrativo.EFuncionario">
+    <Position X="12.25" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAQCAAAAAAAAAAEIAAAAAAAACQAAAAEAQSAAAA=</HashCode>
+      <FileName>administrativo\EFuncionario.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="pessoa" />
+      <Property Name="cargo" />
+      <Property Name="empresa" />
+      <Property Name="setor" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Entidade.administrativo.EPessoa">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQBACBAAEUAhAIBQggEMDiUAAEBHgACEkIAAAAQARAA=</HashCode>
+      <FileName>administrativo\EPessoa.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="estadoCivil" />
+      <Property Name="Naturalidade" />
+      <Property Name="NaturalidadeUF" />
+      <Property Name="cidade" />
+      <Property Name="estado" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Entidade.administrativo.EResponsavel">
+    <Position X="10.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAACAEAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>administrativo\EResponsavel.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="pessoa" />
+      <Property Name="empresa" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Entidade.administrativo.ESistema">
+    <Position X="1.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAQAAAEAA=</HashCode>
+      <FileName>administrativo\ESistema.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidade.administrativo.EUsuarioEmpresa">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAEAgAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>administrativo\EUsuarioEmpresa.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="usuario" />
+      <Property Name="empresa" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Entidade.administrativo.EUsuarioSistema">
+    <Position X="1.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAABAAAAEAAAAAQAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>administrativo\EUsuarioSistema.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="usuario" />
+      <Property Name="perfil" />
+      <Property Name="sistema" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Entidade.administrativo.EUsuario">
+    <Position X="4.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEBAAAQCEBAAAAAAAAAAAAAQAAACAAAA=</HashCode>
+      <FileName>administrativo\EUsuario.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="pessoa" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Entidade.administrativo.EPerfil">
+    <Position X="1.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAQAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>administrativo\EPerfil.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
